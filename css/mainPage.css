@@ -1,0 +1,43 @@
+body{
+	background: url(images/Website-Design-Background.png);
+	background-size: cover;
+	font-family: Lato;
+	}
+
+.navbar-text{
+	font-size: 50px;
+	text-align: center;
+
+}
+
+#pad{
+	padding-left: 150px;
+	color: white;
+}
+.navbar-text1{
+	font-size: 20px;
+	text-align: center;	
+}
+
+.btn-lg {
+    padding: 10px 130px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.wit{
+
+    font-size: 45px;
+}
+
+.color{
+	color: black;
+}
+
+.foot{
+	color: white;
+}
+
+.bigb{
+	font-size: 25px;
+}
